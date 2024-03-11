@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: black;
+    position: relative;
+    height: 400px;
+}
+.logotipo{
+    width: 355px;
+    position: absolute;
+    right: 475px;
+    top: 35px;
+}
+Main{
+    background-color: rgba(255, 0, 0, 0.877);
+    margin-top: 50px;
+    padding: 30px;
+}
+footer{
+    background-color: white;
+    height: 250px;
+    position: relative;
+}
+img{
+    width: 300px;
+}
+/* header img{
+    width: 200px
+}*/
+h1{
+    text-align: center;
+}
+.starwars{
+    width: 200px;
+    position: absolute;
+    right: 45%;
+    bottom: 10px;
+}
